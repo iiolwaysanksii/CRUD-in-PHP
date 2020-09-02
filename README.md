@@ -14,3 +14,6 @@ CREATE TABLE autos (
         year INTEGER,
         mileage INTEGER
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+The above defined table "autos" inside the database named "misc" is used in the CRUD Application. You can either use the same code to understand the working of the application or modify it however you see fit.
